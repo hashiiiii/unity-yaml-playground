@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.unity.ai.assistant": "2.13.0-pre.2",
+    "com.unity.ai.inference": "2.6.1",
+    "com.unity.device-simulator.devices": "1.0.1",
     "com.unity.multiplayer.center": "1.0.1",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
@@ -34,8 +37,6 @@
     "com.unity.modules.vehicles": "1.0.0",
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0",
-    "com.unity.ai.assistant": "2.13.0-pre.2",
-    "com.unity.ai.inference": "2.6.1"
+    "com.unity.modules.xr": "1.0.0"
   }
 }
