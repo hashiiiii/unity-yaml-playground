@@ -13,3 +13,5 @@ ShaderVariantCollection:
       variants:
       - keywords: 
         passType: 4
+      - keywords: _EMISSION
+        passType: 4
